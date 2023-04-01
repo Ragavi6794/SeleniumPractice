@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+      <class name="org.AnnotationsTestng.TestAnnotations">
+        <test-method status="PASS" signature="amazon()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="amazon" is-config="true" duration-ms="13" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="amazonurl()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="amazonurl" is-config="true" duration-ms="1" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonurl -->
+        <test-method status="PASS" signature="searchMobile()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="searchMobile" is-config="true" duration-ms="0" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMobile -->
+        <test-method status="PASS" signature="serach()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="serach" duration-ms="11" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serach -->
+        <test-method status="PASS" signature="click()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="click" is-config="true" duration-ms="1" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="list()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="list" is-config="true" duration-ms="1" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list -->
+        <test-method status="PASS" signature="enter()[pri:0, instance:org.AnnotationsTestng.TestAnnotations@548ad73b]" name="enter" is-config="true" duration-ms="0" started-at="2023-03-31T17:53:23 IST" finished-at="2023-03-31T17:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter -->
+      </class> <!-- org.AnnotationsTestng.TestAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
