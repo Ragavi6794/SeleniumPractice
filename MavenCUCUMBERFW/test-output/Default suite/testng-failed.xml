@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.loginOrangeCuCu.LoginStepDefinition">
+        <methods>
+          <include name="user_go_to_the_link_orange_hrm_login"/>
+          <include name="user_should_be_login_its_navigate_to_home_page"/>
+        </methods>
+      </class> <!-- org.loginOrangeCuCu.LoginStepDefinition -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
